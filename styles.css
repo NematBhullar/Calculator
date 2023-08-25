@@ -22,9 +22,10 @@ body {
   align-content: center;
   grid-template-columns: repeat(4, 100px);
   grid-template-rows: minmax(120px, auto) repeat(5, 100px);
-  background-color: #23232F;
+  background-color: #282836;
   border-radius: 15px;
   padding: 10px;
+  box-shadow: 5px 5px #1C1C25;
 }
 
 .calculator-grid > button {
@@ -33,16 +34,16 @@ body {
   border: none;
   height: 85px;
   margin: 5px;
-  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.1), 10px 10px 10px rgba(0, 0, 0, 0.2);
-  background-color: #23232F;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+  background-color: #282836;
   color: white;
 }
 
 .calculator-grid > button:hover {
-  background-color: #23232F;
+  background-color: #282836;
   color: #e66465;
-  box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.2), inset -5px -5px 10px rgba(255, 255, 255, 0.05);
-  background-color: #23232F;
+  box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.2), inset -5px -5px 5px rgba(255, 255, 255, 0.05);
+  background-color: #282836;
 }
 
 .span-two {
@@ -58,7 +59,7 @@ body {
   word-wrap: break-word;
   word-break: break-all;
   flex-direction: column;
-  background-color: #23232F;
+  background-color: #282836;
   border-radius: 15px;
 }
 
