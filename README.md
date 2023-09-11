@@ -1,4 +1,5 @@
 # Calculator
+<img width="1259" alt="Screenshot 2023-09-11 at 12 44 52 pm" src="https://github.com/NematBhullar/Calculator/assets/91060343/638761e4-661a-4422-93ac-9155bc30e249">
 
 1. About
 2. Getting Started
